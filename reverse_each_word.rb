@@ -5,4 +5,4 @@ def reverse_each_word(sentence)
   new_list
 end
 
-stringg - 
+reverse_each_word
