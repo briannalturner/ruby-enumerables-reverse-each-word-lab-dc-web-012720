@@ -4,3 +4,4 @@ def reverse_each_word(sentence)
 end
 stringg = "Hello my name is Bri."
 list = stringg.split(' ')
+p list
