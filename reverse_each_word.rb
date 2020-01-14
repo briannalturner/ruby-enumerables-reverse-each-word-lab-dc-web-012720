@@ -4,3 +4,5 @@ def reverse_each_word(sentence)
   p new_list
   new_list
 end
+
+stringg - 
