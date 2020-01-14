@@ -1,6 +1,6 @@
 def reverse_each_word(sentence)
   list = sentence.split(' ')
-  list.collect
+  list.collect {|a| a.reverse 
   
 end
 stringg = "Hello my name is Bri."
